@@ -1,0 +1,24 @@
+Data-driven testing is a software testing methodology that involves using data to drive the testing process. Instead of using a fixed set of inputs and expected outputs for each test case, data-driven testing involves using different sets of data to create multiple test cases
+FileHandling :
+
+           In java is reading and writing data to files is called fileHandling.
+
+    1) To read or write the data first we need to know the path or location where we will be reading or writing that file.
+
+    2) We need to navigate to that location or bring the file into the memory so that java program can process the data from that file.
+
+      We use two classes to navigate one is called FileInputStream and the other one is called FileOutputStream.
+
+      When we have to read the data we use FileInputStream and when we have to write the data we use the FileOutputStream.
+
+     3) We need to know about a class that knows how to read and write the data from that specific file for example we use Properties
+
+     class when we have to read the data from the  .properties file. We use XSSFWorkbook to read and write the date from the Excel files.
+
+
+  Why should we learn about FileHandling?
+
+****************************************************
+Exceptions :
+
+
